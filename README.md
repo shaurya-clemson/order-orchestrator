@@ -1,4 +1,4 @@
-# Pizzas-R-Us Order Management System
+# Order Management System
 
 ## Overview
 This project develops a comprehensive database system for Pizzas-R-Us, a fictional pizzeria, designed to track and manage its day-to-day operations. The system covers aspects from pizza ordering to inventory management, offering detailed insights into the pizzeria's workflow, thus facilitating effective decision-making.
